@@ -8,7 +8,7 @@ Neural Backpacking: The process of enhancing the learning capabilities of a lang
 
 In recent years, the field of artificial intelligence, and more specifically, natural language processing has witnessed significant advancements. One such breakthrough is the concept of 'Neural Backpacking'. This novel approach aims at streamlining and optimizing the training aspect for AI-powered language models without compromising their performance.
 
-The driving force behind Neural Backpacking stems from the observation that there exists an abundance of teacher-student relationships in computer science. This oversaturation not only creates redundancies but also leads to unnecessary time spent training different language models independently.
+The driving force behind Neural Backpacking stems from the observation that there exists an abundance of teacher-student relationships in computer science. This oversaturation not only creates confusions for actual students so I picked a funky name but also leads to unnecessary time spent training different language models independently.
 
 Neural Backpacking seeks to address this issue by enabling a targeted AI-based language model to tap into already trained systems effectively. By querying other established models and assimilating their output, it not only consolidates valuable insights but also bolsters its own semantic understanding. Thus, it can become efficient at producing coherent responses while minimizing extra efforts associated with training individual systems.
 
